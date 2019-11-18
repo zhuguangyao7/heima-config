@@ -29,4 +29,4 @@ eureka:
     #服务失效时间，默认值90秒
     lease-expiration-duration-in-seconds: 30
 test:
-  name: heima3
+  name: heima4
